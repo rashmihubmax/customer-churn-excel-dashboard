@@ -52,7 +52,8 @@ The dataset contains the following fields:
 ## 📸 Dashboard Preview
 
 ![Customer Churn Dashboard](dashboardcustomerchunkanalysis.png)
----
+
+https://github.com/rashmihubmax/customer-churn-excel-dashboard/blob/88053f8a8523749e87fee5c8ce11f3c38ea15f4a/Dashboard%20Customer%20chunk%20analysis.png
 
 ## 🚀 How to Use
 1. Download the Excel file from the `dashboard` folder  

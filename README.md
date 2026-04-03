@@ -51,7 +51,6 @@ The dataset contains the following fields:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboardcustomerchunkanalysis.png)
 
 ---
 

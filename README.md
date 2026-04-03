@@ -51,7 +51,7 @@ The dataset contains the following fields:
 
 ## 📸 Dashboard Preview
 
-
+![Customer Churn Dashboard](dashboardcustomerchunkanalysis.png)
 ---
 
 ## 🚀 How to Use
